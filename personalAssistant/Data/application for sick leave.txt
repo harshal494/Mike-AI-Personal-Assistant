@@ -1,0 +1,44 @@
+Here is an application for sick leave:
+
+[Your Name]
+[Your Address]
+[City, State, Pincode]
+[Date]
+
+[Recipient's Name]
+[Recipient's Designation]
+[Company/Organization Name]
+[Company/Organization Address]
+[City, State, Pincode]
+
+Subject: Application for Sick Leave
+
+Dear [Recipient's Name],
+
+I am writing to inform you that I am currently unwell and unable to attend work. Due to my health condition, I am requesting a leave of absence from [start date] to [end date].
+
+I am suffering from [mention the illness or medical condition] and my doctor has advised me to take rest and undergo treatment for the next [number of days]. I have attached a medical certificate from my doctor, which confirms my illness and recommends the necessary leave.
+
+I apologize for any inconvenience this may cause and will ensure that I catch up on any missed work as soon as I am able to return to the office. I will also make sure to complete all my pending tasks and ensure a smooth transition of work during my absence.
+
+I would be grateful if you could approve my application for sick leave. If there is any additional information or documentation required, please let me know.
+
+Thank you for your understanding and support.
+
+Sincerely,
+
+[Your Signature]
+[Your Name]
+
+Attachments: Medical Certificate
+
+Note: Please modify the application according to your needs and company policies. Also, make sure to include the following details:
+
+* Your name and address
+* Date of application
+* Recipient's name and designation
+* Company/Organization name and address
+* Reason for leave (illness or medical condition)
+* Duration of leave
+* Medical certificate (if required)
+* Signature and contact information (if needed)

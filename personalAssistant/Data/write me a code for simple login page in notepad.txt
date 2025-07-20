@@ -1,0 +1,109 @@
+Here is a simple login page code in HTML, CSS, and JavaScript that you can write in Notepad:
+
+**HTML (index.html)**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login Page</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="login-container">
+		<form id="login-form">
+			<label>Username:</label>
+			<input type="text" id="username" name="username"><br><br>
+			<label>Password:</label>
+			<input type="password" id="password" name="password"><br><br>
+			<button id="login-btn">Login</button>
+		</form>
+		<p id="error-msg"></p>
+	</div>
+
+	<script src="script.js"></script>
+</body>
+</html>
+```
+
+**CSS (style.css)**
+```css
+.login-container {
+	width: 300px;
+	margin: 50px auto;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-container label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+.login-container input[type="text"], .login-container input[type="password"] {
+	width: 100%;
+	height: 40px;
+	margin-bottom: 20px;
+	padding: 10px;
+	border: 1px solid #ccc;
+}
+
+.login-container button {
+	width: 100%;
+	height: 40px;
+	background-color: #4CAF50;
+	color: #fff;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.login-container button:hover {
+	background-color: #3e8e41;
+}
+
+#error-msg {
+	color: #f00;
+}
+```
+
+**JavaScript (script.js)**
+```javascript
+const loginForm = document.getElementById('login-form');
+const usernameInput = document.getElementById('username');
+const passwordInput = document.getElementById('password');
+const loginBtn = document.getElementById('login-btn');
+const errorMsg = document.getElementById('error-msg');
+
+loginBtn.addEventListener('click', (e) => {
+	e.preventDefault();
+	const username = usernameInput.value.trim();
+	const password = passwordInput.value.trim();
+
+	if (username === '' || password === '') {
+		errorMsg.textContent = 'Please fill in both fields';
+	} else {
+		// Here you can add your authentication logic
+		// For example, you can send a request to your server to verify the credentials
+		// For this example, we'll just simulate a successful login
+		if (username === 'admin' && password === 'password') {
+			alert('Login successful!');
+			// You can redirect the user to a different page or perform some other action
+		} else {
+			errorMsg.textContent = 'Invalid username or password';
+		}
+	}
+});
+```
+
+**How to use:**
+
+1. Open Notepad and create a new file.
+2. Copy the HTML code into the file and save it as `index.html`.
+3. Create a new file and copy the CSS code into it. Save it as `style.css` in the same directory as the HTML file.
+4. Create another new file and copy the JavaScript code into it. Save it as `script.js` in the same directory as the HTML file.
+5. Open the `index.html` file in a web browser to see the login page in action.
+
+Note: This is a very basic example and you should not use it for production without proper security measures, such as hashing and salting passwords, and protecting against SQL injection and cross-site scripting (XSS) attacks.

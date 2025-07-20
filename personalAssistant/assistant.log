@@ -1,0 +1,278 @@
+2025-07-20 02:01:53,264 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:01:53,326 - INFO - Decision: ['general hello.']
+2025-07-20 02:01:53,752 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:53,827 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:53,963 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:54,032 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:54,109 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:54,180 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:54,255 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:54,336 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:54,419 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:54,495 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:54,600 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:54,690 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:54,769 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:54,861 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:54,940 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:55,028 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:55,109 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:55,181 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:55,260 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:55,348 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:55,423 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:55,504 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:55,583 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:55,662 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:55,756 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:55,864 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:55,956 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:56,049 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:56,126 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:56,198 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:56,279 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:01:56,280 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-07-20 02:01:58,556 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:01:58,644 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:01:58,645 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-07-20 02:02:00,927 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:02:01,021 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:02:01,021 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-07-20 02:02:03,238 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:02:03,323 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:02:03,323 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-07-20 02:02:05,558 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:02:05,632 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:02:05,632 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-07-20 02:02:07,844 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-20 02:02:07,908 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:02:07,909 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-07-20 02:02:10,393 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:02:23,305 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:02:23,445 - INFO - Decision: ['general are you able to listen.']
+2025-07-20 02:02:24,089 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:02:44,013 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:02:44,111 - INFO - Decision: ['general chat with me.']
+2025-07-20 02:02:45,597 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:03:05,188 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:03:05,522 - INFO - Decision: ['general my friend is nishant choudhary and his girlfriend is your birthday not this thing.']
+2025-07-20 02:03:06,356 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:03:30,916 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:03:31,029 - INFO - Decision: ["realtime who is nishant choudhary's girlfriend?"]
+2025-07-20 02:03:32,849 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:04:09,042 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:04:09,046 - INFO - Decision: ['exit']
+2025-07-20 02:18:12,708 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:18:12,801 - INFO - Decision: ['general hey mike.']
+2025-07-20 02:18:12,802 - INFO - Using context: Current time: 02:18 AM
+Recent topics: Hey mike.
+2025-07-20 02:18:23,953 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:18:44,237 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:18:44,613 - INFO - Decision: ['general yes', 'reminder after 30 seconds you have a meeting']
+2025-07-20 02:18:44,613 - INFO - Using context: Current time: 02:18 AM
+Recent topics: Hey mike., Yes it is can you remember me after sometime after 30 seconds that i have a meeting?
+2025-07-20 02:18:45,259 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:18:57,727 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:18:57,796 - INFO - Decision: ['general okay good.']
+2025-07-20 02:18:57,796 - INFO - Using context: Current time: 02:18 AM
+Recent topics: Hey mike., Yes it is can you remember me after sometime after 30 seconds that i have a meeting?, Okay good.
+2025-07-20 02:18:58,363 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:19:20,636 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:19:20,892 - INFO - Decision: ['general my friend is nishant and his girlfriend is payal.']
+2025-07-20 02:19:20,892 - INFO - Using context: Current time: 02:19 AM
+Recent topics: Hey mike., Yes it is can you remember me after sometime after 30 seconds that i have a meeting?, Okay good., Till then i want to tell you something my friend is nishant and his girlfriend name is payal.
+2025-07-20 02:19:24,392 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:19:59,938 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:20:00,044 - INFO - Decision: ['general dan madarchod.']
+2025-07-20 02:20:00,045 - INFO - Using context: Current time: 02:20 AM
+Recent topics: Hey mike., Yes it is can you remember me after sometime after 30 seconds that i have a meeting?, Okay good., Till then i want to tell you something my friend is nishant and his girlfriend name is payal., Dan madarchod.
+2025-07-20 02:20:02,874 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:20:44,594 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:20:44,764 - INFO - Decision: ['realtime who is the girlfriend of nishant?']
+2025-07-20 02:20:44,765 - INFO - Using context: Current time: 02:20 AM
+Recent topics: Yes it is can you remember me after sometime after 30 seconds that i have a meeting?, Okay good., Till then i want to tell you something my friend is nishant and his girlfriend name is payal., Dan madarchod., Okay now i want you to tell me that who is the girlfriend of nishant?
+2025-07-20 02:20:54,886 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:21:39,265 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:21:39,350 - INFO - Decision: ['open youtube', 'play and']
+2025-07-20 02:21:39,350 - INFO - Using context: Current time: 02:21 AM
+Recent topics: I want you to open youtube and play and.
+2025-07-20 02:21:43,167 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:21:43,321 - INFO - Decision: ['general My friend can you do that?']
+2025-07-20 02:21:43,321 - INFO - Using context: Current time: 02:21 AM
+Recent topics: I want you to open youtube and play and., My friend can you do that?
+2025-07-20 02:21:44,005 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:21:58,275 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:21:58,361 - INFO - Decision: ['general are you.']
+2025-07-20 02:21:58,362 - INFO - Using context: Current time: 02:21 AM
+Recent topics: I want you to open youtube and play and., My friend can you do that?, Are you.
+2025-07-20 02:21:58,921 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:38:46,083 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:38:46,444 - INFO - Decision: ['general hey mic.'] | Processing time: 4.81s
+2025-07-20 02:38:48,425 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:39:05,938 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:39:06,031 - INFO - Decision: ['open youtube', 'play'] | Processing time: 19.58s
+2025-07-20 02:39:11,735 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:39:11,862 - INFO - Decision: ['general are machhar re.'] | Processing time: 5.83s
+2025-07-20 02:39:12,511 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:39:59,417 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:39:59,503 - INFO - Decision: ['open youtube'] | Processing time: 7.46s
+2025-07-20 02:40:11,126 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:40:11,182 - INFO - Decision: ['open youtube'] | Processing time: 11.68s
+2025-07-20 02:40:33,875 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:40:34,092 - INFO - Decision: ['general hello hello are you able to listen me.'] | Processing time: 22.91s
+2025-07-20 02:40:35,218 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:41:04,442 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:41:04,563 - INFO - Decision: ['general authentication.'] | Processing time: 30.47s
+2025-07-20 02:41:11,541 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:41:19,768 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:41:20,053 - INFO - Decision: ['general hey mic are you able to listen to me?'] | Processing time: 15.47s
+2025-07-20 02:41:41,010 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:41:41,011 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2025-07-20 02:41:43,322 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:41:43,413 - INFO - Decision: ['general top top.'] | Processing time: 23.36s
+2025-07-20 02:41:44,592 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:41:45,293 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:41:45,376 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:41:45,377 - INFO - Retrying request to /openai/v1/chat/completions in 17.000000 seconds
+2025-07-20 02:41:55,351 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:41:55,535 - INFO - Decision: ['general are you able to listen to me?'] | Processing time: 12.12s
+2025-07-20 02:42:02,857 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:42:04,060 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:42:04,345 - INFO - Decision: ['general mic are you able to listen me.'] | Processing time: 8.81s
+2025-07-20 02:42:15,541 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:42:15,542 - INFO - Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+2025-07-20 02:42:19,960 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:42:20,038 - INFO - Decision: ['open youtube'] | Processing time: 15.69s
+2025-07-20 02:42:21,006 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:42:31,232 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:42:31,232 - INFO - Retrying request to /openai/v1/chat/completions in 17.000000 seconds
+2025-07-20 02:42:34,377 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:42:34,475 - INFO - Decision: ['open youtube'] | Processing time: 14.43s
+2025-07-20 02:42:48,773 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:43:05,531 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:43:05,694 - INFO - Decision: ["realtime what's the tata stock price?"] | Processing time: 31.22s
+2025-07-20 02:43:08,403 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:43:08,404 - INFO - Retrying request to /openai/v1/chat/completions in 15.000000 seconds
+2025-07-20 02:43:24,060 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:43:41,269 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:43:41,355 - INFO - Decision: ['system volume down'] | Processing time: 35.65s
+2025-07-20 02:44:17,023 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:44:17,131 - INFO - Decision: ['general hello mike.'] | Processing time: 35.77s
+2025-07-20 02:44:17,790 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:44:29,331 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:44:29,422 - INFO - Decision: ['system volume down'] | Processing time: 12.28s
+2025-07-20 02:44:53,287 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:44:53,343 - INFO - Decision: ['system volume down'] | Processing time: 23.92s
+2025-07-20 02:45:50,089 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:45:50,197 - INFO - Decision: ['general anna.'] | Processing time: 56.85s
+2025-07-20 02:45:56,747 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:45:57,021 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:45:57,167 - INFO - Decision: ['general just try to understand.'] | Processing time: 6.96s
+2025-07-20 02:45:58,036 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:45:58,037 - INFO - Retrying request to /openai/v1/chat/completions in 32.000000 seconds
+2025-07-20 02:46:08,809 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:46:08,915 - INFO - Decision: ['general hai mike.'] | Processing time: 11.74s
+2025-07-20 02:46:31,601 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:46:33,767 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:46:33,847 - INFO - Decision: ['general (query)'] | Processing time: 24.93s
+2025-07-20 02:46:45,487 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 02:46:45,487 - INFO - Retrying request to /openai/v1/chat/completions in 49.000000 seconds
+2025-07-20 02:47:19,606 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:47:19,641 - INFO - Decision: ['system'] | Processing time: 45.79s
+2025-07-20 02:47:35,203 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:47:47,059 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:48:15,732 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:48:15,963 - INFO - Decision: ['general what kind of task are you able to do?'] | Processing time: 56.32s
+2025-07-20 02:48:16,838 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-07-20 02:48:17,332 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:48:39,758 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:48:39,832 - INFO - Decision: ['general listen.'] | Processing time: 23.86s
+2025-07-20 02:48:40,384 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:48:58,246 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:48:58,428 - INFO - Decision: ['general Can you able to interact with system?'] | Processing time: 18.59s
+2025-07-20 02:49:11,045 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:49:44,660 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:49:44,714 - INFO - Decision: ['system start'] | Processing time: 46.28s
+2025-07-20 02:50:15,976 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:50:16,044 - INFO - Decision: ['system restart'] | Processing time: 31.33s
+2025-07-20 02:50:16,045 - INFO - Executing automation: ['system restart', 'context: Current time: 02:50 AM\nActive window: python3\nOpen applications: System Idle Process (1), System (1), Registry (1), conhost.exe (8), smss.exe (1), csrss.exe (2), wininit.exe (1), services.exe (1), LsaIso.exe (1), chrome.exe (45), lsass.exe (1), svchost.exe (85), fontdrvhost.exe (2), WUDFHost.exe (1), RuntimeBroker.exe (8), chromedriver.exe (4), MemCompression (1), IntelCpHDCPSvc.exe (1), IntelCpHeciSvc.exe (1), igfxCUIService.exe (1), NVDisplay.Container.exe (2), rundll32.exe (2), ctfmon.exe (1), AsusCertService.exe (1), msedgewebview2.exe (13), pet.exe (1), backgroundTaskHost.exe (4), sihost.exe (1), AsusOSD.exe (1), AsusOptimization.exe (1), TextInputHost.exe (1), audiodg.exe (1), spoolsv.exe (1), AsusWiFiSmartConnect.exe (1), WmiPrvSE.exe (3), AnyDesk.exe (1), ArmouryCrateControlInterface.exe (1), AsusAppService.exe (1), AsusSystemAnalysis.exe (1), AsusSystemDiagnosis.exe (1), ArmouryCrate.Service.exe (1), DtsApo4Service.exe (1), AuraWallpaperService.exe (1), AsusSwitch.exe (1), AsusSoftwareManager.exe (1), OneApp.IGCC.WinService.exe (1), GameSDK.exe (1), MpDefenderCoreService.exe (1), Code.exe (13), LightingService.exe (1), ROGLiveService.exe (1), nvcontainer.exe (3), RstMwService.exe (1), RtkAudUService64.exe (3), MsMpEng.exe (1), SearchHost.exe (1), esif_uf.exe (1), dwm.exe (1), jhi_service.exe (1), powershell.exe (5), asus_framework.exe (3), NgcIso.exe (1), SecurityHealthService.exe (1), CrossDeviceResume.exe (1), Copilot.exe (1), gamingservicesnet.exe (1), gamingservices.exe (1), wlanext.exe (1), WidgetService.exe (1), UserOOBEBroker.exe (1), SearchFilterHost.exe (2), AutoConnectHelper.exe (1), SystemSettings.exe (1), wscript.exe (1), NisSrv.exe (1), BraveCrashHandler64.exe (1), winlogon.exe (1), StartMenuExperienceHost.exe (1), AppVShNotify.exe (1), PresentationFontCache.exe (1), WmiApSrv.exe (1), OneDrive.exe (1), OfficeClickToRun.exe (1), AacAmbientLighting.exe (1), WindowsPackageManagerServer.exe (1), ArmouryCrate.UserSessionHelper.exe (1), ShellExperienceHost.exe (1), FxSound.exe (1), ApplicationFrameHost.exe (1), AcPowerNotification.exe (1), BraveCrashHandler.exe (1), taskhostw.exe (1), AsusSoftwareManagerAgent.exe (1), ArmouryCrate.exe (1), IGCC.exe (1), WhatsApp.exe (1), explorer.exe (1), ShellHost.exe (1), PhoneExperienceHost.exe (1), jusched.exe (1), igfxEM.exe (1), SearchProtocolHost.exe (1), ArmourySocketServer.exe (1), FileSyncHelper.exe (1), FileCoAuth.exe (1), SecurityHealthSystray.exe (1), Notepad.exe (1), Widgets.exe (1), python.exe (1), AsusOptimizationStartupTask.exe (1), unsecapp.exe (1), SearchIndexer.exe (1), python3.10.exe (1), RtkUWP.exe (1)\nRecent topics: What kind of task are you able to do?, Listen., Can you able to interact with system?, Can you start the system?, Mike restart the system.']
+2025-07-20 02:50:32,186 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:50:32,339 - INFO - Decision: ['general how much time it takes?'] | Processing time: 16.29s
+2025-07-20 02:50:32,957 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:51:02,554 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:51:02,678 - INFO - Decision: ['system brightness to full'] | Processing time: 30.33s
+2025-07-20 02:51:34,231 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:51:34,326 - INFO - Decision: ['general hey mike.'] | Processing time: 31.64s
+2025-07-20 02:51:34,952 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:51:44,972 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:51:45,058 - INFO - Decision: ['system volume down'] | Processing time: 10.73s
+2025-07-20 02:52:13,426 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:52:13,497 - INFO - Decision: ['system volume down'] | Processing time: 28.44s
+2025-07-20 02:52:32,225 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:52:32,436 - INFO - Decision: ['general are you able to listen to me?'] | Processing time: 18.94s
+2025-07-20 02:52:33,017 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:52:49,718 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:52:49,794 - INFO - Decision: ['system volume down'] | Processing time: 17.35s
+2025-07-20 02:53:41,284 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:53:41,433 - INFO - Decision: ['general account nahin kar raha hai.'] | Processing time: 51.64s
+2025-07-20 02:53:42,264 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 02:54:11,285 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 02:54:11,423 - INFO - Decision: ['system restart', 'system restart pc'] | Processing time: 29.98s
+2025-07-20 02:54:11,424 - INFO - Executing automation: ['system restart', 'system restart pc', 'context: Current time: 02:54 AM\nActive window: python3\nOpen applications: System Idle Process (1), System (1), Registry (1), conhost.exe (8), smss.exe (1), csrss.exe (2), wininit.exe (1), services.exe (1), LsaIso.exe (1), chrome.exe (45), lsass.exe (1), svchost.exe (85), fontdrvhost.exe (2), WUDFHost.exe (1), RuntimeBroker.exe (8), chromedriver.exe (4), MemCompression (1), IntelCpHDCPSvc.exe (1), IntelCpHeciSvc.exe (1), igfxCUIService.exe (1), NVDisplay.Container.exe (2), rundll32.exe (2), ctfmon.exe (1), AsusCertService.exe (1), msedgewebview2.exe (13), pet.exe (1), backgroundTaskHost.exe (4), sihost.exe (1), AsusOSD.exe (1), AsusOptimization.exe (1), TextInputHost.exe (1), audiodg.exe (1), spoolsv.exe (1), AsusWiFiSmartConnect.exe (1), WmiPrvSE.exe (3), AnyDesk.exe (1), ArmouryCrateControlInterface.exe (1), AsusAppService.exe (1), AsusSystemAnalysis.exe (1), AsusSystemDiagnosis.exe (1), ArmouryCrate.Service.exe (1), DtsApo4Service.exe (1), AuraWallpaperService.exe (1), AsusSwitch.exe (1), AsusSoftwareManager.exe (1), OneApp.IGCC.WinService.exe (1), GameSDK.exe (1), MpDefenderCoreService.exe (1), Code.exe (13), LightingService.exe (1), ROGLiveService.exe (1), nvcontainer.exe (3), RstMwService.exe (1), RtkAudUService64.exe (3), MsMpEng.exe (1), SearchHost.exe (1), esif_uf.exe (1), dwm.exe (1), jhi_service.exe (1), powershell.exe (5), asus_framework.exe (3), NgcIso.exe (1), SecurityHealthService.exe (1), CrossDeviceResume.exe (1), Copilot.exe (1), gamingservicesnet.exe (1), gamingservices.exe (1), wlanext.exe (1), WidgetService.exe (1), UserOOBEBroker.exe (1), SearchFilterHost.exe (2), AutoConnectHelper.exe (1), SystemSettings.exe (1), NisSrv.exe (1), BraveCrashHandler64.exe (1), winlogon.exe (1), StartMenuExperienceHost.exe (1), AppVShNotify.exe (1), PresentationFontCache.exe (1), WmiApSrv.exe (1), OneDrive.exe (1), OfficeClickToRun.exe (1), AacAmbientLighting.exe (1), WindowsPackageManagerServer.exe (1), ArmouryCrate.UserSessionHelper.exe (1), ShellExperienceHost.exe (1), FxSound.exe (1), ApplicationFrameHost.exe (1), AcPowerNotification.exe (1), BraveCrashHandler.exe (1), taskhostw.exe (1), AsusSoftwareManagerAgent.exe (1), ArmouryCrate.exe (1), IGCC.exe (1), WhatsApp.exe (1), explorer.exe (1), ShellHost.exe (1), PhoneExperienceHost.exe (1), jusched.exe (1), igfxEM.exe (1), SearchProtocolHost.exe (1), ArmourySocketServer.exe (1), FileSyncHelper.exe (1), FileCoAuth.exe (1), SecurityHealthSystray.exe (1), Notepad.exe (1), Widgets.exe (1), python.exe (1), AsusOptimizationStartupTask.exe (1), unsecapp.exe (1), SearchIndexer.exe (1), python3.10.exe (1), RtkUWP.exe (1)\nRecent topics: Hey my can you volume down?, Are able to listen me., Volume down., Account nahin kar raha hai., Hey mike restart the system restart the pc.']
+2025-07-20 03:08:37,358 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:08:37,465 - INFO - Decision: ['general hai bike.'] | Processing time: 4.26s
+2025-07-20 03:08:38,231 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-07-20 03:08:38,571 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 03:08:45,121 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:08:45,207 - INFO - Decision: ['general hello.'] | Processing time: 7.74s
+2025-07-20 03:08:45,778 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 03:08:52,271 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:08:52,434 - INFO - Decision: ['general are you able to listen to me?'] | Processing time: 7.22s
+2025-07-20 03:08:53,019 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 03:09:01,429 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:09:01,602 - INFO - Decision: ['general how can i help you?'] | Processing time: 9.16s
+2025-07-20 03:09:02,045 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 03:09:02,045 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2025-07-20 03:09:05,504 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 03:09:17,287 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:09:17,358 - INFO - Decision: ['open notepad'] | Processing time: 15.75s
+2025-07-20 03:09:17,358 - INFO - Executing automation: ['open notepad', 'context: Current time: 03:09 AM\nActive window: python3\nOpen applications: System Idle Process (1), System (1), Registry (1), SearchProtocolHost.exe (1), conhost.exe (8), smss.exe (1), csrss.exe (2), wininit.exe (1), services.exe (1), LsaIso.exe (1), lsass.exe (1), chrome.exe (21), svchost.exe (85), fontdrvhost.exe (2), WUDFHost.exe (1), RuntimeBroker.exe (8), MemCompression (1), IntelCpHDCPSvc.exe (1), IntelCpHeciSvc.exe (1), igfxCUIService.exe (1), NVDisplay.Container.exe (2), rundll32.exe (2), ctfmon.exe (1), AsusCertService.exe (1), msedgewebview2.exe (13), pet.exe (1), backgroundTaskHost.exe (4), sihost.exe (1), AsusOSD.exe (1), AsusOptimization.exe (1), TextInputHost.exe (1), audiodg.exe (1), spoolsv.exe (1), AsusWiFiSmartConnect.exe (1), WmiPrvSE.exe (4), AnyDesk.exe (1), ArmouryCrateControlInterface.exe (1), AsusAppService.exe (1), AsusSystemAnalysis.exe (1), AsusSystemDiagnosis.exe (1), ArmouryCrate.Service.exe (1), DtsApo4Service.exe (1), AuraWallpaperService.exe (1), AsusSwitch.exe (1), AsusSoftwareManager.exe (1), OneApp.IGCC.WinService.exe (1), GameSDK.exe (1), MpDefenderCoreService.exe (1), Code.exe (13), LightingService.exe (1), ROGLiveService.exe (1), nvcontainer.exe (3), RstMwService.exe (1), RtkAudUService64.exe (3), MsMpEng.exe (1), SearchHost.exe (1), esif_uf.exe (1), dwm.exe (1), jhi_service.exe (1), powershell.exe (5), asus_framework.exe (3), NgcIso.exe (1), SecurityHealthService.exe (1), CrossDeviceResume.exe (1), Copilot.exe (1), gamingservicesnet.exe (1), gamingservices.exe (1), wlanext.exe (1), WidgetService.exe (1), UserOOBEBroker.exe (1), AutoConnectHelper.exe (1), SystemSettings.exe (1), NisSrv.exe (1), BraveCrashHandler64.exe (1), winlogon.exe (1), StartMenuExperienceHost.exe (1), AppVShNotify.exe (1), PresentationFontCache.exe (1), SearchFilterHost.exe (3), OneDrive.exe (1), OfficeClickToRun.exe (1), AacAmbientLighting.exe (1), WindowsPackageManagerServer.exe (1), ArmouryCrate.UserSessionHelper.exe (1), ShellExperienceHost.exe (1), FxSound.exe (1), ApplicationFrameHost.exe (1), AcPowerNotification.exe (1), BraveCrashHandler.exe (1), taskhostw.exe (1), AsusSoftwareManagerAgent.exe (1), ArmouryCrate.exe (1), IGCC.exe (1), WhatsApp.exe (1), explorer.exe (1), PhoneExperienceHost.exe (1), jusched.exe (1), igfxEM.exe (1), ArmourySocketServer.exe (1), FileSyncHelper.exe (1), FileCoAuth.exe (1), SecurityHealthSystray.exe (1), Notepad.exe (1), Widgets.exe (1), AsusOptimizationStartupTask.exe (1), unsecapp.exe (1), SearchIndexer.exe (1), python3.10.exe (1), ShellHost.exe (1), chromedriver.exe (1), RtkUWP.exe (1), WmiApSrv.exe (1), python.exe (1)\nRecent topics: Hai bike., Hello., Are you able to listen me., How can i help you?, Open notepad.']
+2025-07-20 03:09:30,035 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:09:30,121 - INFO - Decision: ['open notepad'] | Processing time: 12.75s
+2025-07-20 03:09:30,121 - INFO - Executing automation: ['open notepad', 'context: Current time: 03:09 AM\nActive window: \nOpen applications: System Idle Process (1), System (1), Registry (1), SearchProtocolHost.exe (1), conhost.exe (8), smss.exe (1), csrss.exe (2), wininit.exe (1), services.exe (1), LsaIso.exe (1), lsass.exe (1), chrome.exe (21), svchost.exe (85), fontdrvhost.exe (2), WUDFHost.exe (1), RuntimeBroker.exe (8), MemCompression (1), IntelCpHDCPSvc.exe (1), IntelCpHeciSvc.exe (1), igfxCUIService.exe (1), NVDisplay.Container.exe (2), rundll32.exe (2), ctfmon.exe (1), AsusCertService.exe (1), msedgewebview2.exe (13), pet.exe (1), backgroundTaskHost.exe (4), sihost.exe (1), AsusOSD.exe (1), AsusOptimization.exe (1), TextInputHost.exe (1), audiodg.exe (1), spoolsv.exe (1), AsusWiFiSmartConnect.exe (1), WmiPrvSE.exe (4), AnyDesk.exe (1), ArmouryCrateControlInterface.exe (1), AsusAppService.exe (1), AsusSystemAnalysis.exe (1), AsusSystemDiagnosis.exe (1), ArmouryCrate.Service.exe (1), DtsApo4Service.exe (1), AuraWallpaperService.exe (1), AsusSwitch.exe (1), AsusSoftwareManager.exe (1), OneApp.IGCC.WinService.exe (1), GameSDK.exe (1), MpDefenderCoreService.exe (1), Code.exe (13), LightingService.exe (1), ROGLiveService.exe (1), nvcontainer.exe (3), RstMwService.exe (1), RtkAudUService64.exe (3), MsMpEng.exe (1), SearchHost.exe (1), esif_uf.exe (1), dwm.exe (1), jhi_service.exe (1), powershell.exe (5), asus_framework.exe (3), NgcIso.exe (1), SecurityHealthService.exe (1), CrossDeviceResume.exe (1), Copilot.exe (1), gamingservicesnet.exe (1), gamingservices.exe (1), wlanext.exe (1), WidgetService.exe (1), UserOOBEBroker.exe (1), AutoConnectHelper.exe (1), SystemSettings.exe (1), NisSrv.exe (1), BraveCrashHandler64.exe (1), winlogon.exe (1), StartMenuExperienceHost.exe (1), AppVShNotify.exe (1), PresentationFontCache.exe (1), SearchFilterHost.exe (3), OneDrive.exe (1), OfficeClickToRun.exe (1), AacAmbientLighting.exe (1), WindowsPackageManagerServer.exe (1), ArmouryCrate.UserSessionHelper.exe (1), ShellExperienceHost.exe (1), FxSound.exe (1), ApplicationFrameHost.exe (1), AcPowerNotification.exe (1), BraveCrashHandler.exe (1), taskhostw.exe (1), AsusSoftwareManagerAgent.exe (1), ArmouryCrate.exe (1), IGCC.exe (1), WhatsApp.exe (1), explorer.exe (1), PhoneExperienceHost.exe (1), jusched.exe (1), igfxEM.exe (1), ArmourySocketServer.exe (1), FileSyncHelper.exe (1), FileCoAuth.exe (1), SecurityHealthSystray.exe (1), Notepad.exe (1), Widgets.exe (1), AsusOptimizationStartupTask.exe (1), unsecapp.exe (1), SearchIndexer.exe (1), python3.10.exe (1), dllhost.exe (1), ShellHost.exe (1), chromedriver.exe (1), RtkUWP.exe (1), WmiApSrv.exe (1), python.exe (1)\nRecent topics: Hello., Are you able to listen me., How can i help you?, Open notepad., Okay open notepad now.']
+2025-07-20 03:09:36,923 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:09:36,984 - INFO - Decision: ['close notepad'] | Processing time: 6.86s
+2025-07-20 03:09:36,984 - INFO - Executing automation: ['close notepad', 'context: Current time: 03:09 AM\nActive window: *chatbot functionalities (Mark 1) - Notepad\nOpen applications: System Idle Process (1), System (1), Registry (1), SearchProtocolHost.exe (1), conhost.exe (8), smss.exe (1), csrss.exe (2), wininit.exe (1), services.exe (1), LsaIso.exe (1), lsass.exe (1), chrome.exe (21), svchost.exe (85), fontdrvhost.exe (2), WUDFHost.exe (1), RuntimeBroker.exe (8), MemCompression (1), IntelCpHDCPSvc.exe (1), IntelCpHeciSvc.exe (1), igfxCUIService.exe (1), NVDisplay.Container.exe (2), rundll32.exe (2), ctfmon.exe (1), AsusCertService.exe (1), msedgewebview2.exe (13), pet.exe (1), backgroundTaskHost.exe (4), sihost.exe (1), AsusOSD.exe (1), AsusOptimization.exe (1), TextInputHost.exe (1), audiodg.exe (1), spoolsv.exe (1), AsusWiFiSmartConnect.exe (1), WmiPrvSE.exe (4), AnyDesk.exe (1), ArmouryCrateControlInterface.exe (1), AsusAppService.exe (1), AsusSystemAnalysis.exe (1), AsusSystemDiagnosis.exe (1), ArmouryCrate.Service.exe (1), DtsApo4Service.exe (1), AuraWallpaperService.exe (1), AsusSwitch.exe (1), AsusSoftwareManager.exe (1), OneApp.IGCC.WinService.exe (1), GameSDK.exe (1), MpDefenderCoreService.exe (1), Code.exe (13), LightingService.exe (1), ROGLiveService.exe (1), nvcontainer.exe (3), RstMwService.exe (1), RtkAudUService64.exe (3), MsMpEng.exe (1), SearchHost.exe (1), esif_uf.exe (1), dwm.exe (1), jhi_service.exe (1), powershell.exe (5), asus_framework.exe (3), NgcIso.exe (1), SecurityHealthService.exe (1), CrossDeviceResume.exe (1), Copilot.exe (1), gamingservicesnet.exe (1), gamingservices.exe (1), wlanext.exe (1), WidgetService.exe (1), UserOOBEBroker.exe (1), AutoConnectHelper.exe (1), SystemSettings.exe (1), NisSrv.exe (1), BraveCrashHandler64.exe (1), winlogon.exe (1), StartMenuExperienceHost.exe (1), AppVShNotify.exe (1), PresentationFontCache.exe (1), SearchFilterHost.exe (3), OneDrive.exe (1), OfficeClickToRun.exe (1), AacAmbientLighting.exe (1), WindowsPackageManagerServer.exe (1), ArmouryCrate.UserSessionHelper.exe (1), ShellExperienceHost.exe (1), FxSound.exe (1), ApplicationFrameHost.exe (1), AcPowerNotification.exe (1), BraveCrashHandler.exe (1), taskhostw.exe (1), AsusSoftwareManagerAgent.exe (1), ArmouryCrate.exe (1), IGCC.exe (1), WhatsApp.exe (1), explorer.exe (1), PhoneExperienceHost.exe (1), jusched.exe (1), igfxEM.exe (1), ArmourySocketServer.exe (1), FileSyncHelper.exe (1), FileCoAuth.exe (1), SecurityHealthSystray.exe (1), Notepad.exe (1), Widgets.exe (1), AsusOptimizationStartupTask.exe (1), unsecapp.exe (1), SearchIndexer.exe (1), python3.10.exe (1), dllhost.exe (1), ShellHost.exe (1), chromedriver.exe (1), RtkUWP.exe (1), WmiApSrv.exe (1), python.exe (1)\nRecent topics: Are you able to listen me., How can i help you?, Open notepad., Okay open notepad now., Closet pad.']
+2025-07-20 03:09:44,138 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:09:44,212 - INFO - Decision: ['close notepad'] | Processing time: 7.22s
+2025-07-20 03:09:44,212 - INFO - Executing automation: ['close notepad', 'context: Current time: 03:09 AM\nActive window: *chatbot functionalities (Mark 1) - Notepad\nOpen applications: System Idle Process (1), System (1), Registry (1), SearchProtocolHost.exe (1), conhost.exe (8), smss.exe (1), csrss.exe (2), wininit.exe (1), services.exe (1), LsaIso.exe (1), lsass.exe (1), chrome.exe (21), svchost.exe (85), fontdrvhost.exe (2), WUDFHost.exe (1), RuntimeBroker.exe (8), MemCompression (1), IntelCpHDCPSvc.exe (1), IntelCpHeciSvc.exe (1), igfxCUIService.exe (1), NVDisplay.Container.exe (2), rundll32.exe (2), ctfmon.exe (1), AsusCertService.exe (1), msedgewebview2.exe (13), pet.exe (1), backgroundTaskHost.exe (4), sihost.exe (1), AsusOSD.exe (1), AsusOptimization.exe (1), TextInputHost.exe (1), audiodg.exe (1), spoolsv.exe (1), AsusWiFiSmartConnect.exe (1), WmiPrvSE.exe (4), AnyDesk.exe (1), ArmouryCrateControlInterface.exe (1), AsusAppService.exe (1), AsusSystemAnalysis.exe (1), AsusSystemDiagnosis.exe (1), ArmouryCrate.Service.exe (1), DtsApo4Service.exe (1), AuraWallpaperService.exe (1), AsusSwitch.exe (1), AsusSoftwareManager.exe (1), OneApp.IGCC.WinService.exe (1), GameSDK.exe (1), MpDefenderCoreService.exe (1), Code.exe (13), LightingService.exe (1), ROGLiveService.exe (1), nvcontainer.exe (3), RstMwService.exe (1), RtkAudUService64.exe (3), MsMpEng.exe (1), SearchHost.exe (1), esif_uf.exe (1), dwm.exe (1), jhi_service.exe (1), powershell.exe (5), asus_framework.exe (3), NgcIso.exe (1), SecurityHealthService.exe (1), CrossDeviceResume.exe (1), Copilot.exe (1), gamingservicesnet.exe (1), gamingservices.exe (1), wlanext.exe (1), WidgetService.exe (1), UserOOBEBroker.exe (1), AutoConnectHelper.exe (1), SystemSettings.exe (1), NisSrv.exe (1), BraveCrashHandler64.exe (1), winlogon.exe (1), StartMenuExperienceHost.exe (1), AppVShNotify.exe (1), PresentationFontCache.exe (1), SearchFilterHost.exe (3), OneDrive.exe (1), OfficeClickToRun.exe (1), AacAmbientLighting.exe (1), WindowsPackageManagerServer.exe (1), ArmouryCrate.UserSessionHelper.exe (1), ShellExperienceHost.exe (1), FxSound.exe (1), ApplicationFrameHost.exe (1), AcPowerNotification.exe (1), BraveCrashHandler.exe (1), taskhostw.exe (1), AsusSoftwareManagerAgent.exe (1), ArmouryCrate.exe (1), IGCC.exe (1), WhatsApp.exe (1), explorer.exe (1), PhoneExperienceHost.exe (1), jusched.exe (1), igfxEM.exe (1), ArmourySocketServer.exe (1), FileSyncHelper.exe (1), FileCoAuth.exe (1), SecurityHealthSystray.exe (1), Notepad.exe (1), Widgets.exe (1), AsusOptimizationStartupTask.exe (1), unsecapp.exe (1), SearchIndexer.exe (1), python3.10.exe (1), dllhost.exe (1), ShellHost.exe (1), chromedriver.exe (1), RtkUWP.exe (1), WmiApSrv.exe (1), python.exe (1)\nRecent topics: How can i help you?, Open notepad., Okay open notepad now., Closet pad., Close notepad.']
+2025-07-20 03:09:56,054 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:09:56,141 - INFO - Decision: ['content sick leave application'] | Processing time: 11.93s
+2025-07-20 03:10:15,913 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:10:16,009 - INFO - Decision: ['content sick leave application'] | Processing time: 19.87s
+2025-07-20 03:10:30,623 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:10:30,679 - INFO - Decision: ['open chrome'] | Processing time: 14.67s
+2025-07-20 03:10:30,679 - INFO - Executing automation: ['open chrome', 'context: Current time: 03:10 AM\nActive window: \nOpen applications: System Idle Process (1), System (1), Registry (1), SearchProtocolHost.exe (1), conhost.exe (8), smss.exe (1), csrss.exe (2), wininit.exe (1), services.exe (1), LsaIso.exe (1), lsass.exe (1), chrome.exe (21), svchost.exe (85), fontdrvhost.exe (2), WUDFHost.exe (1), RuntimeBroker.exe (8), MemCompression (1), IntelCpHDCPSvc.exe (1), IntelCpHeciSvc.exe (1), igfxCUIService.exe (1), NVDisplay.Container.exe (2), rundll32.exe (2), ctfmon.exe (1), AsusCertService.exe (1), msedgewebview2.exe (13), pet.exe (1), backgroundTaskHost.exe (4), sihost.exe (1), AsusOSD.exe (1), AsusOptimization.exe (1), TextInputHost.exe (1), audiodg.exe (1), spoolsv.exe (1), AsusWiFiSmartConnect.exe (1), WmiPrvSE.exe (3), AnyDesk.exe (1), ArmouryCrateControlInterface.exe (1), AsusAppService.exe (1), AsusSystemAnalysis.exe (1), AsusSystemDiagnosis.exe (1), ArmouryCrate.Service.exe (1), DtsApo4Service.exe (1), AuraWallpaperService.exe (1), AsusSwitch.exe (1), AsusSoftwareManager.exe (1), OneApp.IGCC.WinService.exe (1), GameSDK.exe (1), MpDefenderCoreService.exe (1), Code.exe (13), LightingService.exe (1), ROGLiveService.exe (1), nvcontainer.exe (3), RstMwService.exe (1), RtkAudUService64.exe (3), MsMpEng.exe (1), SearchHost.exe (1), esif_uf.exe (1), dwm.exe (1), jhi_service.exe (1), powershell.exe (5), asus_framework.exe (3), NgcIso.exe (1), SecurityHealthService.exe (1), CrossDeviceResume.exe (1), Copilot.exe (1), gamingservicesnet.exe (1), gamingservices.exe (1), wlanext.exe (1), WidgetService.exe (1), UserOOBEBroker.exe (1), AutoConnectHelper.exe (1), SystemSettings.exe (1), NisSrv.exe (1), BraveCrashHandler64.exe (1), winlogon.exe (1), StartMenuExperienceHost.exe (1), AppVShNotify.exe (1), PresentationFontCache.exe (1), SearchFilterHost.exe (3), OneDrive.exe (1), OfficeClickToRun.exe (1), AacAmbientLighting.exe (1), WindowsPackageManagerServer.exe (1), ArmouryCrate.UserSessionHelper.exe (1), ShellExperienceHost.exe (1), FxSound.exe (1), ApplicationFrameHost.exe (1), AcPowerNotification.exe (1), BraveCrashHandler.exe (1), taskhostw.exe (1), AsusSoftwareManagerAgent.exe (1), ArmouryCrate.exe (1), IGCC.exe (1), WhatsApp.exe (1), explorer.exe (1), PhoneExperienceHost.exe (1), jusched.exe (1), igfxEM.exe (1), ArmourySocketServer.exe (1), FileSyncHelper.exe (1), FileCoAuth.exe (1), SecurityHealthSystray.exe (1), Widgets.exe (1), AsusOptimizationStartupTask.exe (1), unsecapp.exe (1), SearchIndexer.exe (1), python3.10.exe (1), ShellHost.exe (1), chromedriver.exe (1), RtkUWP.exe (1), WmiApSrv.exe (1), python.exe (1)\nRecent topics: Closet pad., Close notepad., Okay then right a sick leave for me., Write a sick leave for me., Open chrome.']
+2025-07-20 03:10:37,275 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:10:37,332 - INFO - Decision: ['open youtube'] | Processing time: 6.65s
+2025-07-20 03:10:49,907 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:10:49,961 - INFO - Decision: ['open youtube'] | Processing time: 12.63s
+2025-07-20 03:11:22,646 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:11:22,781 - INFO - Decision: ['system volume 50%'] | Processing time: 32.82s
+2025-07-20 03:11:46,689 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:11:46,792 - INFO - Decision: ['general hello mike.'] | Processing time: 24.01s
+2025-07-20 03:11:47,649 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 03:11:51,988 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:11:52,066 - INFO - Decision: ['general hello.'] | Processing time: 5.27s
+2025-07-20 03:11:52,192 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 03:11:52,193 - INFO - Retrying request to /openai/v1/chat/completions in 25.000000 seconds
+2025-07-20 03:11:55,962 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:11:56,064 - INFO - Decision: ['general what kind of?'] | Processing time: 3.99s
+2025-07-20 03:12:17,839 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 03:12:18,397 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 03:12:18,481 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 03:12:18,482 - INFO - Retrying request to /openai/v1/chat/completions in 19.000000 seconds
+2025-07-20 03:12:37,998 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 03:12:56,259 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-07-20 03:12:56,405 - INFO - Decision: ['close chrome', 'close firefox', 'exit'] | Processing time: 60.34s
+2025-07-20 03:12:56,406 - INFO - Executing automation: ['close chrome', 'close firefox', 'context: Current time: 03:12 AM\nActive window: AI Voice Assistant Code Review and Improvements - DeepSeek - Google Chrome\nOpen applications: System Idle Process (1), System (1), Registry (1), SearchProtocolHost.exe (1), conhost.exe (8), smss.exe (1), csrss.exe (2), wininit.exe (1), services.exe (1), LsaIso.exe (1), lsass.exe (1), chrome.exe (21), svchost.exe (85), fontdrvhost.exe (2), WUDFHost.exe (1), RuntimeBroker.exe (8), MemCompression (1), IntelCpHDCPSvc.exe (1), IntelCpHeciSvc.exe (1), igfxCUIService.exe (1), NVDisplay.Container.exe (2), rundll32.exe (2), ctfmon.exe (1), AsusCertService.exe (1), msedgewebview2.exe (13), pet.exe (1), backgroundTaskHost.exe (4), sihost.exe (1), AsusOSD.exe (1), AsusOptimization.exe (1), TextInputHost.exe (1), audiodg.exe (1), spoolsv.exe (1), AsusWiFiSmartConnect.exe (1), WmiPrvSE.exe (3), AnyDesk.exe (1), ArmouryCrateControlInterface.exe (1), AsusAppService.exe (1), AsusSystemAnalysis.exe (1), AsusSystemDiagnosis.exe (1), ArmouryCrate.Service.exe (1), DtsApo4Service.exe (1), AuraWallpaperService.exe (1), AsusSwitch.exe (1), AsusSoftwareManager.exe (1), OneApp.IGCC.WinService.exe (1), GameSDK.exe (1), MpDefenderCoreService.exe (1), Code.exe (13), LightingService.exe (1), ROGLiveService.exe (1), nvcontainer.exe (3), RstMwService.exe (1), RtkAudUService64.exe (3), MsMpEng.exe (1), SearchHost.exe (1), esif_uf.exe (1), dwm.exe (1), jhi_service.exe (1), powershell.exe (5), asus_framework.exe (3), NgcIso.exe (1), SecurityHealthService.exe (1), CrossDeviceResume.exe (1), Copilot.exe (1), gamingservicesnet.exe (1), gamingservices.exe (1), wlanext.exe (1), WidgetService.exe (1), UserOOBEBroker.exe (1), AutoConnectHelper.exe (1), SystemSettings.exe (1), NisSrv.exe (1), BraveCrashHandler64.exe (1), winlogon.exe (1), StartMenuExperienceHost.exe (1), AppVShNotify.exe (1), PresentationFontCache.exe (1), SearchFilterHost.exe (3), OneDrive.exe (1), OfficeClickToRun.exe (1), AacAmbientLighting.exe (1), WindowsPackageManagerServer.exe (1), ArmouryCrate.UserSessionHelper.exe (1), ShellExperienceHost.exe (1), FxSound.exe (1), ApplicationFrameHost.exe (1), AcPowerNotification.exe (1), BraveCrashHandler.exe (1), taskhostw.exe (1), AsusSoftwareManagerAgent.exe (1), ArmouryCrate.exe (1), IGCC.exe (1), WhatsApp.exe (1), explorer.exe (1), PhoneExperienceHost.exe (1), jusched.exe (1), igfxEM.exe (1), ArmourySocketServer.exe (1), FileSyncHelper.exe (1), FileCoAuth.exe (1), SecurityHealthSystray.exe (1), Widgets.exe (1), AsusOptimizationStartupTask.exe (1), unsecapp.exe (1), SearchIndexer.exe (1), python3.10.exe (1), ShellHost.exe (1), chromedriver.exe (1), RtkUWP.exe (1), dllhost.exe (1), WmiApSrv.exe (1), python.exe (1)\nRecent topics: Can i set volume to 50%., Hello mike., Hello., What kind of?, Close the program bye bye.']
